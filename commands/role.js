@@ -46,8 +46,8 @@ exports.run = (client, message, args, level) => { // eslint-disable-line no-unus
         return "Artists";
         break;
       case "map":
-      case "mapper"
-      case "mapping"
+      case "mapper":
+      case "mapping":
       case "mappers":
         return "Mappers";
         break;
