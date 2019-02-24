@@ -83,6 +83,6 @@ exports.conf = {
 exports.help = {
   name: "role",
   category: "Miscellaneous",
-  description: "Give yourself a role. [**Artists**, **Mappers**, **Programmers**, **Testers**]",
-  usage: "role [**Artists**, **Mappers**, **Programmers**, **Testers**]"
+  description: "Give yourself a role.",
+  usage: "role [role]"
 };
